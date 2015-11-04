@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LCD_SHIFT_REG", "LCD_SHIFT_REG\LCD_SHIFT_REG.cproj", "{628EB3F6-09F3-476B-A368-E8D0F3A1E88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{628EB3F6-09F3-476B-A368-E8D0F3A1E88E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{628EB3F6-09F3-476B-A368-E8D0F3A1E88E}.Debug|AVR.Build.0 = Debug|AVR
+		{628EB3F6-09F3-476B-A368-E8D0F3A1E88E}.Release|AVR.ActiveCfg = Release|AVR
+		{628EB3F6-09F3-476B-A368-E8D0F3A1E88E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
